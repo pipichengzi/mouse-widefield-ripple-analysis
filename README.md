@@ -1,5 +1,3 @@
-# mouse-widefield-ripple-analysis
-Python analysis of mouse wide-field glutamate imaging (iGluSnFR), hippocampal MUA, and EMG around awake ripples.
 # Mouse Wide-Field Glutamate Imaging & Hippocampal Ripple Analysis
 
 An independent Python data analysis project exploring neocortical glutamate dynamics (iGluSnFR), hippocampal CA1 multi-unit activity (MUA), and neck EMG around awake hippocampal sharp-wave ripples (SWRs) in mice.
